@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "My first GitHub C++ program!" << endl;
+    return 0;
+}

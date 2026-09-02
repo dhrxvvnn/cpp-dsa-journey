@@ -58,7 +58,7 @@ pair<ListNode*, ListNode*> solve(ListNode* head) {
     }
 
     if (rback) {
-        return {head, rback};
+        return {head, b2};
     } else {
         return {head, pivot};
     }
